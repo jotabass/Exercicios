@@ -1,5 +1,5 @@
 /**
- *  Exercicios de funções
+ *  Exercicios de funções com e sem retorno
  */
 
 // função, nome da função (parametros: retorno)
